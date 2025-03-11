@@ -1,0 +1,2 @@
+from my_simple_rl.internal_module.internal_module import InternalModule
+from my_simple_rl.internal_module.modules import MLPEstimator

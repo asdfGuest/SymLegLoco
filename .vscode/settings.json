@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/_isaac_sim/exts/omni.isaac.ml_archive/pip_prebundle",
+        "${workspaceFolder}/_isaac_sim/exts/omni.pip.cloud/pip_prebundle",
+        "${workspaceFolder}/_isaac_sim/exts/omni.pip.compute/pip_prebundle",
+        "${workspaceFolder}/source/isaaclab",
+        "${workspaceFolder}/source/isaaclab_assets",
+        "${workspaceFolder}/source/isaaclab_mimic",
+        "${workspaceFolder}/source/isaaclab_rl",
+        "${workspaceFolder}/source/isaaclab_tasks",
+    ]
+}
